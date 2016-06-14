@@ -58,6 +58,15 @@
 		"twitter": "Food4Nerds",
 		"calendar": "https://calendar.google.com/calendar/ical/jghri0j8rdpn7svv4tgecb7kl0%40group.calendar.google.com/public/basic.ics"
 	},
+	"forest-giant": {	
+		"name": "Forest Giant",
+		"frequency": "Dependent on events",
+		"web": "https://www.forestgiant.com/",
+		"calendar": "https://calendar.google.com/calendar/ical/forestgiant.com_bulg0dt0mk9446e9nh9h3v5mt4%40group.calendar.google.com/public/basic.ics",
+		"twitter": "ForestGiant",
+		"facebook": "https://www.facebook.com/forestgiantinc/",
+		"description": "Forest Giant is a company of designers, developers and strategists driven by opportunities to solve complex problems using software and technology. We frequently host tech and startup events for the local community - join us!"
+	},
 	"game-dev-lou": {	
 		"name": "Game Dev Lou",
 		"frequency": "Meets every other Sunday @ 2pm",
